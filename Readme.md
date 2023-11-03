@@ -12,9 +12,7 @@ GroceryGo is food delivery, grocery and local shopping platform.
 - Checkout process (shipping, payment method, etc)
 - Database seeder (products & users)
 
-## Live Demo
 
-[Live Demo Link](https://clone-webapp.web.app/)
 
 <img src="./docs/imageFront.png" alt="">
 
@@ -76,15 +74,6 @@ john@example.com (Customer)
 
 
 
-## :handshake: Contributing
 
-Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/juanmndz/react-ecommerce-material/issues).
 
-## Show your support
-
-Give a :star: if you like this project
-
-## Acknowledgments
-- [Material-Ui](https://material-ui.com/components/material-icons/) for its Awesome Icons
